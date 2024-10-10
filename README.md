@@ -1,2 +1,2 @@
-# top100books
-Este projeto em Python utiliza Streamlit, Pandas e Plotly para apresentar os 100 livros mais vendidos na Amazon. Permite filtrar por preço e exibe gráficos de preços e anos de lançamento. Além disso, oferece uma busca para livros específicos, mostrando as avaliações dos usuários, nome do autor, preço, classificação e ano de lançamento.
+
+Este projeto, desenvolvido em Python utilizando Streamlit, Pandas e Plotly, busca uma lista dos 100 livros mais vendidos na Amazon. Ele permite que os usuários filtrem os livros por preço e visualizem dados através de gráficos interativos, exibindo métricas como preços, anos de lançamento e outros atributos. Além disso, há uma página de busca que permite selecionar um livro específico da lista, mostrando as avaliações dos usuários, nome do autor, preço, classificação e ano de lançamento.
